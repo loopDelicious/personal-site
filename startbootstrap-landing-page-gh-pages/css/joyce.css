@@ -17,6 +17,12 @@
     background-color: #d58512;
 }
 
-.navbar-brand {
+.navbar-default .navbar-brand {
     font-size: 24px;
+    color: #d58512;
+    font-style: bold;
+}
+
+#medium {
+    font: FontAwesome;
 }
